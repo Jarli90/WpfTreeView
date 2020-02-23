@@ -1,0 +1,16 @@
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\bin\Debug\netcoreapp3.1\WpfTreeView.exe
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\bin\Debug\netcoreapp3.1\WpfTreeView.deps.json
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\bin\Debug\netcoreapp3.1\WpfTreeView.runtimeconfig.json
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\bin\Debug\netcoreapp3.1\WpfTreeView.runtimeconfig.dev.json
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\bin\Debug\netcoreapp3.1\WpfTreeView.dll
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\bin\Debug\netcoreapp3.1\WpfTreeView.pdb
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\WpfTreeView_MarkupCompile.cache
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\WpfTreeView_MarkupCompile.lref
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\WpfTreeView.g.resources
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\WpfTreeView.AssemblyInfoInputs.cache
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\WpfTreeView.AssemblyInfo.cs
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\WpfTreeView.dll
+C:\Users\Jarl_\source\repos\WpfTreeView\WpfTreeView\obj\Debug\netcoreapp3.1\WpfTreeView.pdb
